@@ -1,4 +1,4 @@
-# Data-Analysis-and-Knowledge-Discovery-Part-3
+# Exercise 3 (TKO 3103 )
 https://andrewb1998.github.io/Data-Analysis-and-Knowledge-Discovery-Part-3/
 
 The assignment consisted of:
